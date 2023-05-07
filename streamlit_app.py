@@ -1,4 +1,4 @@
-rimport pandas as pd
+import pandas as pd
 import streamlit
 import snowflake.connector
 
